@@ -27,7 +27,7 @@ fb_app_id:
 
 
 # Profile
-nickname: NickName
+nickname: rong.chen
 description: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** Fusce eget urna vitae velit *eleifend interdum at ac nisi. In nec ligula lacus. Cum sociis natoque* penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eu cursus erat, ut dapibus quam. Aliquam eleifend dolor vitae [libero pharetra](http://hexo.io) adipiscing. Etiam adipiscing dolor a quam tempor, eu convallis nulla varius. Aliquam sollicitudin risus a porta aliquam.
 
 # Load fontawesome icons? Also see the links option
@@ -37,6 +37,7 @@ icons: false
 # NOTICE) If you set "icons: false" link names will be clear text
 # If "icons: true" link names will interpreted as fontawesome icon names
 # NOTICE) Use the fontawesome icon names without the fa- prefix (http://fontawesome.io/cheatsheet/)
+here: /archives/
 links:
   book: /archives/
   globe: https://github.com/geekplux/hexo-theme-typing
